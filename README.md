@@ -44,5 +44,5 @@ python Demand_Forecasting_using_LSTM.py --train --data_path demand_data.csv
 ```
 ### Results
 The results of the model, including predictions and evaluation metrics, are saved in the following files:
-demand.h5: Contains the trained LSTM model in HDF5 format.
-demand_tfjs.zip: Contains the TensorFlow.js version of the trained model for web deployment.
+- demand.h5: Contains the trained LSTM model in HDF5 format.
+- demand_tfjs.zip: Contains the TensorFlow.js version of the trained model for web deployment.
