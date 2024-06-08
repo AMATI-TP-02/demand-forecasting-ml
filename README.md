@@ -26,12 +26,12 @@ pip install -r requirements.txt
 ### Usage
 To use the demand forecasting model, run:
 ```python
-python Demand_Forecasting_using_LSTM.py --data_path demand_data.csv
+python Demand_Forecasting_using_LSTM.ipynb --data_path demand_data.csv
 ```
 ### Project Structure
 ```python
 demand-forecasting-ml/
-├── Demand_Forecasting_using_LSTM.py
+├── Demand_Forecasting_using_LSTM.ipynb
 ├── README.md
 ├── demand.h5
 ├── demand_data.csv
@@ -40,7 +40,7 @@ demand-forecasting-ml/
 ### Model Training
 To train the demand forecasting model, run:
 ```python
-python Demand_Forecasting_using_LSTM.py --train --data_path demand_data.csv
+python Demand_Forecasting_using_LSTM.ipynb --train --data_path demand_data.csv
 ```
 ### Results
 The results of the model, including predictions and evaluation metrics, are saved in the following files:
