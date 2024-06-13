@@ -31,7 +31,7 @@ python C241-TP02 Demand Forecasting using LSTM.ipynb --data_path demand_data.csv
 ### Project Structure
 ```python
 demand-forecasting-ml/
-├── Demand_Forecasting_using_LSTM.ipynb
+├── C241-TP02 Demand Forecasting using LSTM.ipynb
 ├── README.md
 ├── demand.h5
 ├── demand_data.csv
