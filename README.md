@@ -40,7 +40,7 @@ demand-forecasting-ml/
 ### Model Training
 To train the demand forecasting model, run:
 ```python
-python Demand_Forecasting_using_LSTM.ipynb --train --data_path demand_data.csv
+python C241-TP02 Demand Forecasting using LSTM.ipynb --train --data_path demand_data.csv
 ```
 ### Results
 The results of the model, including predictions and evaluation metrics, are saved in the following files:
