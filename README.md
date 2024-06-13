@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ### Usage
 To use the demand forecasting model, run:
 ```python
-python Demand_Forecasting_using_LSTM.ipynb --data_path demand_data.csv
+python C241-TP02 Demand Forecasting using LSTM.ipynb --data_path demand_data.csv
 ```
 ### Project Structure
 ```python
